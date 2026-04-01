@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/megahed1/HR-Analytics-PowerBI-Figma/blob/main/Design/logo.png?raw=true" width="100" />
+  <img src="https://github.com/megahed1/HR-Analytics-PowerBI-Figma/blob/main/Design/logo.png?raw=true" width="500" />
 </p>
 
 # 📊 HR Talent Insights & Attrition Analysis
